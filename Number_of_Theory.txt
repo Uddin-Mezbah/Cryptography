@@ -1,0 +1,10 @@
+Number theory, also known as 'higher arithmetic', 
+is one of the oldest branches of mathematics and 
+is used to study the properties of positive integers. 
+It helps to study the relationship between different 
+types of numbers such as prime numbers, rational numbers, 
+and algebraic integers.
+In the mid-20s, the number theory was considered as one of 
+the purest forms of mathematics until digital computers proved 
+that this theory can provide answers to real-world problems.
+
